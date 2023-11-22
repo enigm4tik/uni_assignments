@@ -19,7 +19,7 @@ The programming language of choice was Python 3 with the libraries pandas, numpy
 
 ## Assignments in AI Concepts and Algorithms 
 This is the second part of the ML class and used the same approach.  
-Programming language of choise was Python 3 with libraries to perform machine learning. 
+Programming language of choice was Python 3 with libraries to perform machine learning. 
 
 * 01 Convolutional Neural Networks: Use a library of a CNN and compare the results against the library of a fully connected ANN
 * 02 Multiple Regression: Compare forward vs. backward selection
