@@ -3,7 +3,7 @@
 Programs and scripts written for assignments during my 2nd master at FH Technikum Wien
 
 ## Convex Hull
-A program to determine the [Convex Hull](https://en.wikipedia.org/wiki/Convex_hull) (the smallest convex set of points that contains a shape) using the [Gift Wrapping Algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) in Python 3.
+A program to determine the [Convex Hull](https://en.wikipedia.org/wiki/Convex_hull) (the smallest convex set of points that contains a shape) using the [Gift Wrapping](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) and [QuickHull](https://de.wikipedia.org/wiki/QuickHull) algorithms in Python 3.
 
 ## Assignments in Machine Learning 
 The assignments in this class were teaching us how some of the most used/known algorithms are realized by implementing them ourselves.   
